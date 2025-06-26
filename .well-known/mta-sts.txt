@@ -1,8 +1,7 @@
 version: STSv1
 mode: testing
-mx: uk.mx2.mx25.net.
-mx: uk.mx3.mailanyone.net.
-mx: uk.mx4.mx25.net.
-mx: uk.mx1.mailanyone.net.
-
+mx: uk.mx2.mx25.net
+mx: uk.mx3.mailanyone.net
+mx: uk.mx4.mx25.net
+mx: uk.mx1.mailanyone.net
 max_age: 86400
